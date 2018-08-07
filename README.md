@@ -1,2 +1,3 @@
-# dragon-2016.9
-三维贪吃蛇 unity C#
+如满意，请给个star，以鼓励作者继续发布开源项目
+
+关键代码：prefab/manager.cs
